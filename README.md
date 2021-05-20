@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tatianarincon96
-- 👀 I’m interested in.. a lot of things: Programming, Technology, Innovation, Aerial Silks, Tennis, Food, Lol.. haha
-- 🌱 I’m currently learning MySQL, Javascript, HTML, CSS, metodologías ágiles
+- 👋 Hi, I’m Tatiana Rincon
+- 👀 I’m interested in finding the best version of myself. I try to do better everytime, growing personally and professionally.
+- 🌱 I’m currently learning MySQL, Javascript, HTML, CSS
 - 📫 How to reach me tatianalunarincon@gmail.com 
 
 <!---
