@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tatiana Rincon
 - 👀 I’m interested in finding the best version of myself. I try to do better everytime, growing personally and professionally.
-- 🌱 I’m currently learning MySQL, Javascript, HTML, CSS
+- 🌱 I’m currently learning MySQL, Javascript, HTML, CSS, Java
 - 📫 How to reach me tatianalunarincon@gmail.com 
 
 <!---
