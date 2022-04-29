@@ -36,11 +36,17 @@
   <img height="255px" src="https://github-readme-stats.vercel.app/api?username=tatianarincon96&theme=dark&show_icons=true" />
 </div>
 <div>
+  <h3>Proyecto Integrador CTD - Año 1</h3>
   <a href="https://github.com/tatianarincon96/proyecto_integrador">
     <img width="457px" src="https://github-readme-stats.vercel.app/api/pin/?username=tatianarincon96&repo=proyecto_integrador&theme=dark&show_owner" />
   </a>
+  <h3>Trabajo Final Backend 1 - CTD</h3>
   <a href="https://github.com/tatianarincon96/Backend1-Proyecto-Final">
     <img width="457px" src="https://github-readme-stats.vercel.app/api/pin/?username=tatianarincon96&repo=Backend1-Proyecto-Final&theme=dark&show_owner" />
+  </a>
+  <h3>Trabajo Final Backend 2 - CTD</h3>
+  <a href="https://github.com/tatianarincon96/dh-back2-trabajofinal">
+    <img width="457px" src="https://github-readme-stats.vercel.app/api/pin/?username=tatianarincon96&repo=dh-back2-trabajofinal&theme=dark&show_owner" />
   </a>
 </div>
 
