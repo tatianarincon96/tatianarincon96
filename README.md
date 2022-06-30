@@ -44,7 +44,7 @@
   <a href="https://github.com/tatianarincon96/Backend1-Proyecto-Final">
     <img width="457px" src="https://github-readme-stats.vercel.app/api/pin/?username=tatianarincon96&repo=Backend1-Proyecto-Final&theme=dark&show_owner" />
   </a>
-  <h3>Trabajo Final Backend 2 - CTD</h3>
+  <h3>Trabajo Final Backend 2 - Bimestre I - CTD</h3>
   <a href="https://github.com/tatianarincon96/dh-back2-trabajofinal">
     <img width="457px" src="https://github-readme-stats.vercel.app/api/pin/?username=tatianarincon96&repo=dh-back2-trabajofinal&theme=dark&show_owner" />
   </a>
