@@ -1,6 +1,6 @@
 ## Tatiana Rincon's Profile
 
-<img width="1000px" src="https://drive.google.com/file/d/1v4n_kbBnQZvStjIhH9kPfVWH5sCxWOFa/view" />
+<img width="1584" height="396" alt="Black and Yellow Web Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/eec2e1f0-9a50-4902-bc6c-d8491805065a" />
 
 - 👋 Hi, I’m Tatiana Rincon
 - 👀 I’m interested in finding the best version of myself. I try to do better everytime, growing personally and professionally.
@@ -21,12 +21,12 @@
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-SpringSecurity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GestiónDeProyectos-Maven-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Persistencia-JPA&Hibernate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BaseDeDatosRelacional-MySQL&Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BaseDeDatosNoRelacional-MongoDB&DynamoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Webstorm-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LibreríaFrontend-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CloudServices-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
