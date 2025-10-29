@@ -1,6 +1,6 @@
 ## Tatiana Rincon's Profile
 
-<img width="1000px" src="[https://i.pinimg.com/originals/ca/db/d1/cadbd13d69d9deec628e6779b9fed3c7.jpg](https://www.canva.com/design/DAG3LdvwrBg/YhT7wQXJwoZTwM1ykLMzhw/view?utm_content=DAG3LdvwrBg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h46e828e6f6)" />
+<img width="1000px" src="https://drive.google.com/file/d/1v4n_kbBnQZvStjIhH9kPfVWH5sCxWOFa/view" />
 
 - 👋 Hi, I’m Tatiana Rincon
 - 👀 I’m interested in finding the best version of myself. I try to do better everytime, growing personally and professionally.
@@ -17,17 +17,19 @@
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript&Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-SpringSecurity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GestiónDeProyectos-Maven-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Persistencia-JPA&Hibernate-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BaseDeDatosRelacional-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BaseDeDatosNoRelacional-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BaseDeDatosRelacional-MySQL&Oracle-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BaseDeDatosNoRelacional-MongoDB&DynamoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LibreríaFrontend-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CloudServices-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Github Stats
 
