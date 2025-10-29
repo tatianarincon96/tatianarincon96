@@ -1,6 +1,6 @@
 ## Tatiana Rincon's Profile
 
-<img width="1000px" src="https://i.pinimg.com/originals/ca/db/d1/cadbd13d69d9deec628e6779b9fed3c7.jpg" />
+<img width="1000px" src="[https://i.pinimg.com/originals/ca/db/d1/cadbd13d69d9deec628e6779b9fed3c7.jpg](https://www.canva.com/design/DAG3LdvwrBg/YhT7wQXJwoZTwM1ykLMzhw/view?utm_content=DAG3LdvwrBg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h46e828e6f6)" />
 
 - 👋 Hi, I’m Tatiana Rincon
 - 👀 I’m interested in finding the best version of myself. I try to do better everytime, growing personally and professionally.
